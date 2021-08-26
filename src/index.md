@@ -1,5 +1,5 @@
 ---
-title: 'Yanniddck Lansink is the best'
+title: 'Yanniddck Lansink is the bestgi'
 metaDesc: 'A made up agency site that you build if you take Learn
 Eleventy From Scratch, by Piccalilli'
 layout: 'layouts/home.html'
